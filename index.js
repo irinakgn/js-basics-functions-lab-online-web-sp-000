@@ -1,5 +1,6 @@
 // Code your solution in this file!
 
+<<<<<<< HEAD
 
 function distanceFromHqInBlocks(fromValue) {
   return Math.abs(fromValue - 42)
@@ -27,4 +28,15 @@ console.log(diff)
     farePrice = "cannot travel that far";
   }
   return farePrice
+=======
+let startBlock = 42;
+
+function distanceFromHqInBlocks(startBlock, endBlock) {
+console.log(${endBlock}-${StartBlock});
+}
+
+function distanceFromHqInFeet(startBlock,endBlock){
+console.log((${endBlock}-${StartBlock})*244);
+
+>>>>>>> 14a460100eb16b61b4cb06b22e32dbd6bc930ec4
 }
